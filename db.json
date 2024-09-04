@@ -1,8 +1,7 @@
 {
-  overview: {
-	Records: 
-[
-    {
+  "overview": {
+    "Records": [
+      {
         "TaskCategoryId": "1",
         "TaskSiteId": "2",
         "TaskProgressId": "3",
@@ -26,8 +25,8 @@
         "CreatedBy": "11516282",
         "ModifiedBy": "11516282",
         "ModifiedDateTime": ""
-    },
-    {
+      },
+      {
         "TaskCategoryId": "2",
         "TaskSiteId": "3",
         "TaskProgressId": "2",
@@ -51,9 +50,8 @@
         "CreatedBy": "11516282",
         "ModifiedBy": "11516282",
         "ModifiedDateTime": ""
-    }
-],
-Total: 2
-	
-}
+      }
+    ],
+    "Total": 2
+  }
 }
