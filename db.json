@@ -65,17 +65,31 @@
     "Total": 2
   },
   "TaskSite": [
-    {
-        "Id  ": "1",
-        "Name ": "KM1"
-    },
-    {
-        "Id  ": "2",
-        "Name ": "CD2"
-    },
-    {
-        "Id  ": "3",
-        "Name ": "PG15"
-    }
-]
+      {
+          "Id": "1",
+          "Name": "KM1"
+      },
+      {
+          "Id": "2",
+          "Name": "CD2"
+      },
+      {
+          "Id": "3",
+          "Name": "PG15"
+      }
+  ],
+  "TaskUsers": [
+      {
+          "WWID": "11516282",
+          "Name": "Lam, Alex K"
+      },
+      {
+          "WWID": "11299857",
+          "Name": "Chang, Jenny Yuan Nie"
+      },
+       {
+          "WWID": "12237714",
+          "Name": "Khor, Wei Leong"
+      },
+  ]
 }
