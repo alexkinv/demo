@@ -64,7 +64,7 @@
     ],
     "Total": 2
   },
-  "TaskSite": [
+  "taskSite": [
     {
       "Id": "1",
       "Name": "KM1"
@@ -78,7 +78,7 @@
       "Name": "PG15"
     }
   ],
-  "TaskUsers": [
+  "taskUsers": [
     {
       "WWID": "11516282",
       "Name": "Lam, Alex K"
