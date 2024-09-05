@@ -91,5 +91,55 @@
       "WWID": "12237714",
       "Name": "Khor, Wei Leong"
     }
+  ],
+  "taskProgress": [
+    {
+      "Id  ": "1",
+      "Name ": "Pending"
+    },
+    {
+      "Id  ": "2",
+      "Name ": "In-Progress"
+    },
+    {
+      "Id  ": "3",
+      "Name ": "Completed"
+    },
+    {
+      "Id  ": "4",
+      "Name ": "On-Hold"
+    }
+  ],
+  "taskCategory": [
+    {
+      "Id  ": "1",
+      "Name ": "Maintenance"
+    },
+    {
+      "Id  ": "2",
+      "Name ": "New Project"
+    },
+    {
+      "Id  ": "3",
+      "Name ": "POC"
+    }
+  ],
+  "taskPriority": [
+    {
+      "Id  ": "1",
+      "Name ": "Low"
+    },
+    {
+      "Id  ": "2",
+      "Name ": "Medium"
+    },
+    {
+      "Id  ": "3",
+      "Name ": "High"
+    },
+    {
+      "Id  ": "4",
+      "Name ": "Urgent"
+    }
   ]
 }
