@@ -23,10 +23,13 @@
             "RootCause": "Wrong root define",
             "ServiceRequestNumber": "SR#123456",
             "ResolutionSteps": "1",
-            "CreatedDateTime": "",
+            "SopNumber": "SOP00001",
+            "TaskDueDate": "9/15/24 13:00",
+            "WorkOrderNumber": "WO00001",
+            "CreatedDateTime": "9/5/24 13:00",
             "CreatedBy": "11516282",
             "ModifiedBy": "11516282",
-            "ModifiedDateTime": ""
+            "ModifiedDateTime": "9/5/24 13:00"
         },
         {
             "Id": "2",
@@ -50,10 +53,13 @@
             "RootCause": "",
             "ServiceRequestNumber": "SR#654321",
             "ResolutionSteps": "2",
-            "CreatedDateTime": "",
+            "SopNumber": "SOP00002",
+            "TaskDueDate": "9/16/24 13:00",
+            "WorkOrderNumber": "WO00002",
+            "CreatedDateTime": "9/5/24 13:00",
             "CreatedBy": "11516282",
             "ModifiedBy": "11516282",
-            "ModifiedDateTime": ""
+            "ModifiedDateTime": "9/5/24 13:00"
         }
     ],
     "Total": 2
